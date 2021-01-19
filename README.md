@@ -1,1 +1,2 @@
-# NMT-Pytorch-Multi-GPU
+# Neural Machine Translation using Pytorch and Multi GPU implementation 
+
